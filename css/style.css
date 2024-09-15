@@ -1,21 +1,7 @@
-/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
-
-
-/*--------------------------------------------------------------------- File Name: style.css ---------------------------------------------------------------------*/
-
-
-/*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,400,600,700,900&display=swap');
-
-/*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
- 2) font-family: 'Poppins', sans-serif;
- ----------------------------------------*****/
-
-
-/*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
 @import url(animate.min.css);
 @import url(normalize.css);
@@ -29,7 +15,6 @@
 @import url(jquery-ui.css);
 @import url(nice-select.css);
 
-/*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
 * {
      box-sizing: border-box !important;
@@ -238,10 +223,7 @@ button {
 }
 
 
-/**-- heading section --**/
 
-
-/*---------------------------- preloader area ----------------------------*/
 
 .loader_bg {
      position: fixed;
@@ -267,7 +249,7 @@ button {
 }
 
 
-/*-- navigation--*/
+
 
 .navigation.navbar {
      float: right;
@@ -345,13 +327,6 @@ button {
 }
 
 
-/*-- header area --*/
-
-
-/*--------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
-
-
-/*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header {
      width: 100%;
@@ -368,7 +343,6 @@ button {
 }
 
 
-/** banner section **/
 
 .relative {
      position: absolute;
@@ -497,7 +471,6 @@ button {
 }
 
 
-/** about section **/
 
 .about {
      background: url(../images/ab_bg.png);
@@ -528,10 +501,6 @@ button {
 }
 
 
-/** end about section **/
-
-
-/** mobile section **/
 
 .mobile {
      background: url(../images/mo_bg.jpg);
@@ -573,12 +542,6 @@ button {
      border: #fff solid 3px;
      color: #fff;
 }
-
-
-/** mobile section **/
-
-
-/** clients section **/
 
 .clients {
      margin-top: 40px;
@@ -635,10 +598,7 @@ button {
 }
 
 
-/** end clients section **/
 
-
-/** contact section **/
 
 .contact {
      background: #042431;
@@ -691,10 +651,6 @@ button {
 }
 
 
-/** end contact section **/
-
-
-/** footer **/
 
 .footer {
      background: #042431;
@@ -784,10 +740,7 @@ ul.cont li {
 }
 
 
-/** end footer **/
 
-
-/** inner page css **/
 
 .margin_to90 .footer {
      margin-top: 90px;
